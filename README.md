@@ -30,15 +30,15 @@ General Procedure
     contiguous k-strings background frequence or 
     degenerated k-strings background frequence or
     Calculate the frequence of k-strings straightly without any subtraction.
-    * 5.Make a cv.txt format output.
-        #example.cv.txt
-        N
-        Inner Product
-        Significant kmer number
-        1 0.044418402253529
-        2 -0.13694127815637536
-        3 0.02302543931397616
-        4 0.08209917560394331
+    * 5.Make a cv.txt format output.     
+        #example.cv.txt     
+        N          
+        Inner Product      
+        Significant kmer number       
+        1 0.044418402253529       
+        2 -0.13694127815637536        
+        3 0.02302543931397616       
+        4 0.08209917560394331      
         ......
 * distance matrix
     * 1.Employee Cosine dissimilarity or Euclidean distance to calculate the difference among species
