@@ -1,6 +1,6 @@
 Spaced word
 ==================================
-DATE:2020-1-31
+DATE:2020-1-31     
 version:0.2.0
 
 
@@ -48,16 +48,16 @@ General Procedure
 Manual
 ========
 kmer frequency vector
-* python3 kmer_frequence_vector.py -d -m -fna.path -speciesname -CPU.NUM -bgd
--d      -num    the interval length of degenerated kmer     d>0
--N      -num    the length of degenerated kmer      N>1
--fna.path       -str    the path of dna sequence as an input,whose suffix is fna,fa,ffn,or fasta
--speciesname    -str    the Latin name of species
--CPU.NUM        -num    the number of CPU be used
+* python3 kmer_frequence_vector.py -d -m -fna.path -speciesname -CPU.NUM -bgd    
+-d      -num    the interval length of degenerated kmer     d>0    
+-N      -num    the length of degenerated kmer      N>1    
+-fna.path       -str    the path of dna sequence as an input,whose suffix is fna,fa,ffn,or fasta     
+-speciesname    -str    the Latin name of species     
+-CPU.NUM        -num    the number of CPU be used     
 -bgd            -str    whether subtracted background
 
-distance matrix
-* python3 distance_matrix.py cvtxt.directory CPU.NUM distance-type(COS or EUC)
-cvtxt.directory     -str    The path of cv.txt of species stored      other suffix files must nonexistent
-CPU.NUM     -num            The number of CPU be used
+distance matrix     
+* python3 distance_matrix.py cvtxt.directory CPU.NUM distance-type(COS or EUC)      
+cvtxt.directory     -str    The path of cv.txt of species stored      other suffix files must nonexistent    
+CPU.NUM     -num            The number of CPU be used     
 distance-type       -str    Euclidean distance or Cosine disimilarity
