@@ -6,15 +6,15 @@ version:0.2.0
 
 Author Information:
 ==================
-Name:  Liu Shuai
-Department:  Anhui University and the Institute of Zoology, Chinese Academy of Sciences jointly cultivation
+Name:  Liu Shuai     
+Department:  Anhui University and the Institute of Zoology, Chinese Academy of Sciences jointly cultivation    
 E-mail:  ls2659614061@126.com
 
 
 Supervisor Information:
-======================
-Name:  Wu Qi
-Department:  Institute of Microbiology, Chinese Academy of Sciences
+======================     
+Name:  Wu Qi     
+Department:  Institute of Microbiology, Chinese Academy of Sciences      
 E-mail:  wuq@im.ac.cn
 
 
